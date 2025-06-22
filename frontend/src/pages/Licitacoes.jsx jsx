@@ -1,0 +1,8 @@
+export default function Licitacoes() {
+  return (
+    <div className="p-4">
+      <h1>Licitações Públicas</h1>
+      <p>Visualize oportunidades e pregões disponíveis.</p>
+    </div>
+  );
+}
