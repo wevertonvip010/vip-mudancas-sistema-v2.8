@@ -1,15 +1,12 @@
-import React from 'react';
-import Login from './pages/Login.jsx';
-import useAuth from './hooks/useAuth.js';
+import React from 'react'
 
 function App() {
-  const user = useAuth();
   return (
-    <div>
-      <h1>Bem-vindo à VIP Mudanças</h1>
-      <Login />
-    </div>
-  );
+    <>
+      <h1>VIP Mudanças v2.8</h1>
+      <p>Seu sistema rodando com sucesso!</p>
+    </>
+  )
 }
 
-export default App;
+export default App
