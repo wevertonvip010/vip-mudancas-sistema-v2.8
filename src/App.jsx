@@ -1,12 +1,12 @@
-import React from 'react';
-import Login from './pages/Login';
+
+import React from 'react'
 
 function App() {
   return (
     <div>
-      <Login />
+      <h1>VIP Mudanças - Sistema Funcionando</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
