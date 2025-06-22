@@ -1,12 +1,9 @@
-import React from 'react';
+import React from "react";
 
-function Login() {
+export default function Login() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '40px' }}>
-      <h1>Bem-vindo ao Sistema VIP Mudanças</h1>
-      <p>Essa é a tela de login padrão.</p>
+    <div>
+      <h1>Página de Login</h1>
     </div>
   );
 }
-
-export default Login;
