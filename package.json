@@ -1,5 +1,5 @@
 {
-  "name": "vip-mudancas",
+  "name": "vip-mudancas-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -11,6 +11,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^6.3.5"
+    "vite": "^5.0.0"
   }
 }

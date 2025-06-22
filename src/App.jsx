@@ -1,12 +1,12 @@
-import React from "react";
-import Login from "./pages/Login";
+import React from 'react'
 
 function App() {
   return (
     <div>
-      <Login />
+      <h1>Bem-vindo à VIP Mudanças</h1>
+      <p>Seu parceiro em mudanças residenciais e comerciais.</p>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
